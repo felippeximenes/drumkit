@@ -5,7 +5,7 @@
 
 PT-BR
 <br>
-Neste projeto “Drum Kit” é uma aplicação web interativa que simula um kit de bateria. Foi construído usando HTML, CSS e JavaScript. Aqui está um resumo do pratico deste projeto por etapas: Seu projeto "Drum Kit" é uma aplicação web interativa que simula um kit de bateria. Foi construído usando HTML, CSS e JavaScript. Aqui está um resumo do seu projeto com base no código que você forneceu:
+Neste projeto “Drum Kit” é uma aplicação web interativa que simula um kit de bateria. Foi construído usando HTML, CSS e JavaScript. Aqui está um resumo do pratico deste projeto por etapas: Seu projeto "Drum Kit" é uma aplicação web interativa que simula um kit de bateria. F
 
 **HTML**: Você definiu várias teclas, cada uma associada a um som específico de bateria. Cada tecla tem um atributo `data-key` correspondente a um código de tecla específico e um elemento de áudio correspondente com o mesmo `data-key`. Quando uma tecla é pressionada, o som correspondente é reproduzido.
 
@@ -17,7 +17,7 @@ Este projeto é um ótimo exemplo de como você pode usar HTML, CSS e JavaScript
 
 ENGLISH
 <br>
-In this project, the “Drum Kit” is an interactive web application that simulates a drum kit. It was built using HTML, CSS, and JavaScript. Here is a summary of your project based on the code you provided:
+In this project, the “Drum Kit” is an interactive web application that simulates a drum kit. It was built using HTML, CSS, and JavaScript. 
 
 HTML: You defined several keys, each associated with a specific drum sound. Each key has a data-key attribute corresponding to a specific key code and an audio element corresponding to the same data-key. When a key is pressed, the corresponding sound is played.
 
