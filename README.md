@@ -5,7 +5,7 @@
 
 PT-BR
 <br>
-Neste projeto “Drum Kit” é uma aplicação web interativa que simula um kit de bateria. Foi construído usando HTML, CSS e JavaScript. Aqui está um resumo do pratico deste projeto por etapas: Seu projeto "Drum Kit" é uma aplicação web interativa que simula um kit de bateria. F
+Neste projeto “Drum Kit” é uma aplicação web interativa que simula um kit de bateria. Foi construído usando HTML, CSS e JavaScript. Aqui está um resumo do pratico deste projeto por etapas: Seu projeto "Drum Kit" é uma aplicação web interativa que simula um kit de bateria. 
 
 **HTML**: Você definiu várias teclas, cada uma associada a um som específico de bateria. Cada tecla tem um atributo `data-key` correspondente a um código de tecla específico e um elemento de áudio correspondente com o mesmo `data-key`. Quando uma tecla é pressionada, o som correspondente é reproduzido.
 
